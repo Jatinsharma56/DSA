@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jatinsharma56/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jatinsharma56/DSA/tree/master/0009-palindrome-number) |
+| [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
 | ------- |
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jatinsharma56/DSA/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
