@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jatinsharma56/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Jatinsharma56/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jatinsharma56/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Jatinsharma56/DSA/tree/master/0035-search-insert-position) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jatinsharma56/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Jatinsharma56/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Jatinsharma56/DSA/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jatinsharma56/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
