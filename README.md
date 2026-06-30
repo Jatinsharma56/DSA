@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jatinsharma56/DSA/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Jatinsharma56/DSA/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/Jatinsharma56/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Jatinsharma56/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Jatinsharma56/DSA/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Jatinsharma56/DSA/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
