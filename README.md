@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jatinsharma56/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jatinsharma56/DSA/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Jatinsharma56/DSA/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jatinsharma56/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Jatinsharma56/DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Jatinsharma56/DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Jatinsharma56/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jatinsharma56/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatinsharma56/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
