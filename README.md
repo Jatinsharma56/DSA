@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jatinsharma56/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Jatinsharma56/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Jatinsharma56/DSA/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/Jatinsharma56/DSA/tree/master/1768-merge-strings-alternately) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jatinsharma56/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Jatinsharma56/DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Jatinsharma56/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
