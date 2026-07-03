@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Jatinsharma56/DSA/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2427-number-of-common-factors](https://github.com/Jatinsharma56/DSA/tree/master/2427-number-of-common-factors) |
 ## Array
 |  |
 | ------- |
@@ -104,8 +105,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Jatinsharma56/DSA/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
+| [2427-number-of-common-factors](https://github.com/Jatinsharma56/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
