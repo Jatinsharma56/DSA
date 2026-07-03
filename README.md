@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jatinsharma56/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jatinsharma56/DSA/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/Jatinsharma56/DSA/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
