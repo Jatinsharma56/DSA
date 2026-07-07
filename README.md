@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Jatinsharma56/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jatinsharma56/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Jatinsharma56/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jatinsharma56/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Jatinsharma56/DSA/tree/master/0263-ugly-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jatinsharma56/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Jatinsharma56/DSA/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
