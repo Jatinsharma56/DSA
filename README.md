@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Jatinsharma56/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Jatinsharma56/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jatinsharma56/DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Jatinsharma56/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1925-count-square-sum-triples](https://github.com/Jatinsharma56/DSA/tree/master/1925-count-square-sum-triples) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Jatinsharma56/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Jatinsharma56/DSA/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Jatinsharma56/DSA/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
