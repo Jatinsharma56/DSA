@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jatinsharma56/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Jatinsharma56/DSA/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Jatinsharma56/DSA/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1925-count-square-sum-triples](https://github.com/Jatinsharma56/DSA/tree/master/1925-count-square-sum-triples) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Jatinsharma56/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Jatinsharma56/DSA/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
