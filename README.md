@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Jatinsharma56/DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Jatinsharma56/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Jatinsharma56/DSA/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1925-count-square-sum-triples](https://github.com/Jatinsharma56/DSA/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/Jatinsharma56/DSA/tree/master/2427-number-of-common-factors) |
@@ -124,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Jatinsharma56/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jatinsharma56/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Jatinsharma56/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jatinsharma56/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatinsharma56/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Jatinsharma56/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Jatinsharma56/DSA/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jatinsharma56/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Jatinsharma56/DSA/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
