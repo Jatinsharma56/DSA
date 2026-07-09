@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Jatinsharma56/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Jatinsharma56/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Jatinsharma56/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Jatinsharma56/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
