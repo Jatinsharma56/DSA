@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jatinsharma56/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Jatinsharma56/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jatinsharma56/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Jatinsharma56/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jatinsharma56/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Jatinsharma56/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jatinsharma56/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jatinsharma56/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Jatinsharma56/DSA/tree/master/0415-add-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Jatinsharma56/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
