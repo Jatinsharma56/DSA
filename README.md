@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Jatinsharma56/DSA/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Jatinsharma56/DSA/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/Jatinsharma56/DSA/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Jatinsharma56/DSA/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Jatinsharma56/DSA/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/Jatinsharma56/DSA/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
