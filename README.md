@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Jatinsharma56/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Jatinsharma56/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jatinsharma56/DSA/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Jatinsharma56/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Jatinsharma56/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Jatinsharma56/DSA/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Jatinsharma56/DSA/tree/master/0415-add-strings) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jatinsharma56/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatinsharma56/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Jatinsharma56/DSA/tree/master/0152-maximum-product-subarray) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Jatinsharma56/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Jatinsharma56/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Jatinsharma56/DSA/tree/master/0509-fibonacci-number) |
 ## Enumeration
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Jatinsharma56/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
