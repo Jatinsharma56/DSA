@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Jatinsharma56/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Jatinsharma56/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jatinsharma56/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jatinsharma56/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Jatinsharma56/DSA/tree/master/0283-move-zeroes) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jatinsharma56/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Jatinsharma56/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jatinsharma56/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jatinsharma56/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Jatinsharma56/DSA/tree/master/0414-third-maximum-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jatinsharma56/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -215,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jatinsharma56/DSA/tree/master/0724-find-pivot-index) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
