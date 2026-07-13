@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinsharma56/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Jatinsharma56/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jatinsharma56/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Jatinsharma56/DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Jatinsharma56/DSA/tree/master/1534-count-good-triplets) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jatinsharma56/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jatinsharma56/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Jatinsharma56/DSA/tree/master/1512-number-of-good-pairs) |
 | [1995-count-special-quadruplets](https://github.com/Jatinsharma56/DSA/tree/master/1995-count-special-quadruplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Jatinsharma56/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinsharma56/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jatinsharma56/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Jatinsharma56/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Bit Manipulation
 |  |
