@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jatinsharma56/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Jatinsharma56/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Jatinsharma56/DSA/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Jatinsharma56/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Jatinsharma56/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jatinsharma56/DSA/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jatinsharma56/DSA/tree/master/0357-count-numbers-with-unique-digits) |
@@ -255,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Jatinsharma56/DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Jatinsharma56/DSA/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Jatinsharma56/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Jatinsharma56/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jatinsharma56/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
