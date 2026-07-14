@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Jatinsharma56/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jatinsharma56/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatinsharma56/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Jatinsharma56/DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Jatinsharma56/DSA/tree/master/1534-count-good-triplets) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jatinsharma56/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Jatinsharma56/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Jatinsharma56/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jatinsharma56/DSA/tree/master/1025-divisor-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatinsharma56/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Enumeration
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Jatinsharma56/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatinsharma56/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jatinsharma56/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatinsharma56/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
