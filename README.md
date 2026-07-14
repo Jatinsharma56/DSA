@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Jatinsharma56/DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinsharma56/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jatinsharma56/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Jatinsharma56/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jatinsharma56/DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Jatinsharma56/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jatinsharma56/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Jatinsharma56/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Jatinsharma56/DSA/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Jatinsharma56/DSA/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
