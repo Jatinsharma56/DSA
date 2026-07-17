@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Jatinsharma56/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Jatinsharma56/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jatinsharma56/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Jatinsharma56/DSA/tree/master/0392-is-subsequence) |
@@ -196,11 +197,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Jatinsharma56/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Jatinsharma56/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jatinsharma56/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Jatinsharma56/DSA/tree/master/0509-fibonacci-number) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jatinsharma56/DSA/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0234-palindrome-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
