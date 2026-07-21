@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jatinsharma56/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Jatinsharma56/DSA/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/Jatinsharma56/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Jatinsharma56/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jatinsharma56/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Jatinsharma56/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Jatinsharma56/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Jatinsharma56/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Jatinsharma56/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Jatinsharma56/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Jatinsharma56/DSA/tree/master/0283-move-zeroes) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jatinsharma56/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/Jatinsharma56/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
