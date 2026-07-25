@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jatinsharma56/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Jatinsharma56/DSA/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Jatinsharma56/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jatinsharma56/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jatinsharma56/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jatinsharma56/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatinsharma56/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jatinsharma56/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Jatinsharma56/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Jatinsharma56/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatinsharma56/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
