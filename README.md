@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jatinsharma56/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/Jatinsharma56/DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/Jatinsharma56/DSA/tree/master/1534-count-good-triplets) |
+| [1732-find-the-highest-altitude](https://github.com/Jatinsharma56/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jatinsharma56/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Jatinsharma56/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jatinsharma56/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Jatinsharma56/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Jatinsharma56/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Jatinsharma56/DSA/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Jatinsharma56/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
