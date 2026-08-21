@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Jatinsharma56/DSA/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Jatinsharma56/DSA/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Jatinsharma56/DSA/tree/master/0443-string-compression) |
+| [0551-student-attendance-record-i](https://github.com/Jatinsharma56/DSA/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Jatinsharma56/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Jatinsharma56/DSA/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
