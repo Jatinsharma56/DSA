@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Jatinsharma56/DSA/tree/master/1768-merge-strings-alternately) |
 | [3019-number-of-changing-keys](https://github.com/Jatinsharma56/DSA/tree/master/3019-number-of-changing-keys) |
 | [3340-check-balanced-string](https://github.com/Jatinsharma56/DSA/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Jatinsharma56/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Jatinsharma56/DSA/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jatinsharma56/DSA/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Jatinsharma56/DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Jatinsharma56/DSA/tree/master/0657-robot-return-to-origin) |
+| [3498-reverse-degree-of-a-string](https://github.com/Jatinsharma56/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatinsharma56/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
