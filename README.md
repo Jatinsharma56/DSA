@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Jatinsharma56/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Jatinsharma56/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinsharma56/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Jatinsharma56/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Jatinsharma56/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jatinsharma56/DSA/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -369,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jatinsharma56/DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jatinsharma56/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jatinsharma56/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
