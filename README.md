@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Jatinsharma56/DSA/tree/master/0443-string-compression) |
 | [0551-student-attendance-record-i](https://github.com/Jatinsharma56/DSA/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/Jatinsharma56/DSA/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Jatinsharma56/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Jatinsharma56/DSA/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jatinsharma56/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jatinsharma56/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Jatinsharma56/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Jatinsharma56/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Jatinsharma56/DSA/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Jatinsharma56/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Jatinsharma56/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Jatinsharma56/DSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Jatinsharma56/DSA/tree/master/1140-stone-game-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jatinsharma56/DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Jatinsharma56/DSA/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jatinsharma56/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Jatinsharma56/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jatinsharma56/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Jatinsharma56/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Jatinsharma56/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jatinsharma56/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
 |  |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jatinsharma56/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Jatinsharma56/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jatinsharma56/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
