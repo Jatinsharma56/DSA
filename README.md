@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Jatinsharma56/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Jatinsharma56/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Jatinsharma56/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinsharma56/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jatinsharma56/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Jatinsharma56/DSA/tree/master/0704-binary-search) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jatinsharma56/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Jatinsharma56/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Jatinsharma56/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/Jatinsharma56/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatinsharma56/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jatinsharma56/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Jatinsharma56/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jatinsharma56/DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Jatinsharma56/DSA/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jatinsharma56/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0561-array-partition](https://github.com/Jatinsharma56/DSA/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Jatinsharma56/DSA/tree/master/0678-valid-parenthesis-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jatinsharma56/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
@@ -389,5 +392,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Jatinsharma56/DSA/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jatinsharma56/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
