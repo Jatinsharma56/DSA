@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jatinsharma56/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Jatinsharma56/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jatinsharma56/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jatinsharma56/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinsharma56/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Jatinsharma56/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jatinsharma56/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Jatinsharma56/DSA/tree/master/1512-number-of-good-pairs) |
 | [1995-count-special-quadruplets](https://github.com/Jatinsharma56/DSA/tree/master/1995-count-special-quadruplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Jatinsharma56/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jatinsharma56/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jatinsharma56/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jatinsharma56/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Jatinsharma56/DSA/tree/master/3731-find-missing-elements) |
@@ -405,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Jatinsharma56/DSA/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jatinsharma56/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jatinsharma56/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jatinsharma56/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
